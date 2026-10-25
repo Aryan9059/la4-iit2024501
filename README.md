@@ -5,17 +5,6 @@
 
 ---
 
-## All Projects by Group 4
-
-| Member name | Roll number | Category | Variant implemented |
-|---|---|---|---|
-| Aryan Srivastava | IIT2024501 | CSRF | GET-based CSRF via hidden `<img>` tag |
-| | | | |
-| | | | |
-| | | | |
-
----
-
 ## Overview
 
 This repository demonstrates a **Cross-Site Request Forgery (CSRF)** attack and its mitigation using a two-site setup:
